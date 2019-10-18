@@ -1,0 +1,16 @@
+{
+  "name": "PruebaTelegraf",
+  "version": "1.0.0",
+  "description": "Prueba con librería de Telegraf, implementar bot en Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.9.1",
+    "technicalindicators": "^2.0.8",
+    "telegraf": "^3.29.0"
+  }
+}
